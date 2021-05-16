@@ -1,4 +1,4 @@
-# BTC RPC Explorer
+# BTCIL RPC Explorer
 
 ![homepage](./public/img/screenshots/homepage-v3.png)
 

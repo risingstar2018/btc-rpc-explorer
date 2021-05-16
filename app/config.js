@@ -18,7 +18,7 @@ if (!baseUrl.endsWith("/")) {
 const coins = require("./coins.js");
 const credentials = require("./credentials.js");
 
-const currentCoin = process.env.BTCEXP_COIN || "BTC";
+const currentCoin = process.env.BTCEXP_COIN || "BTCIL";
 const defaultTheme = process.env.BTCEXP_UI_THEME || "dark";
 
 const rpcCred = credentials.rpc;

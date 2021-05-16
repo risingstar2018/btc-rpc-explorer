@@ -8,10 +8,10 @@ const btcFun = require("./btcFun.js");
 var currencyUnits = [
 	{
 		type:"native",
-		name:"BTC",
+		name:"BTCIL",
 		multiplier:1,
 		default:true,
-		values:["", "btc", "BTC"],
+		values:["", "btc", "BTCIL"],
 		decimalPlaces:8
 	},
 	{
@@ -55,7 +55,7 @@ var currencyUnits = [
 
 module.exports = {
 	name:"Bitcoin",
-	ticker:"BTC",
+	ticker:"BTCIL",
 	logoUrlsByNetwork:{
 		"main":"./img/logo/logo.svg",
 		"test":"./img/logo/logo-testnet.svg",
@@ -106,7 +106,7 @@ module.exports = {
 	targetBlockTimeSeconds: 600,
 	targetBlockTimeMinutes: 10,
 	currencyUnits:currencyUnits,
-	currencyUnitsByName:{"BTC":currencyUnits[0], "mBTC":currencyUnits[1], "bits":currencyUnits[2], "sat":currencyUnits[3]},
+	currencyUnitsByName:{"BTCIL":currencyUnits[0], "mBTC":currencyUnits[1], "bits":currencyUnits[2], "sat":currencyUnits[3]},
 	baseCurrencyUnit:currencyUnits[3],
 	defaultCurrencyUnit:currencyUnits[0],
 	feeSatoshiPerByteBucketMaxima: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 25, 50, 75, 100, 150],

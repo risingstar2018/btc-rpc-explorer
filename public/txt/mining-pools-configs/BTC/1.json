@@ -12,12 +12,12 @@
             "name": "1THash",
             "link": "https://www.1thash.top"
         },
-        "/BTC.COM/" : {
-            "name" : "BTC.com",
+        "/BTCIL.COM/" : {
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
-        "/BTC.com/" : {
-            "name" : "BTC.com",
+        "/BTCIL.com/" : {
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "BITFARMS": {
@@ -32,7 +32,7 @@
             "name": "Huobi.pool",
             "link": "https://www.hpt.com/"
         },
-        "/E2M & BTC.TOP/": {
+        "/E2M & BTCIL.TOP/": {
             "name": "WAYI.CN",
             "link": "http://www.easy2mine.com/"
         },
@@ -40,8 +40,8 @@
             "name": "CanoePool",
             "link": "https://www.canoepool.com/"
         },
-        "/BTC.TOP/": {
-            "name" : "BTC.TOP",
+        "/BTCIL.TOP/": {
+            "name" : "BTCIL.TOP",
             "link" : "http://www.btc.top/"
         },
         "pool.bitcoin.com" : {
@@ -80,8 +80,8 @@
             "name" : "simplecoin.us",
             "link" : "http://simplecoin.us/"
         },
-        "BTC Guild" : {
-            "name" : "BTC Guild",
+        "BTCIL Guild" : {
+            "name" : "BTCIL Guild",
             "link" : "http://www.btcguild.com/"
         },
         "Eligius" : {
@@ -611,7 +611,7 @@
             "link" : "https://eclipsemc.com/"
         },
         "1BwZeHJo7b7M2op7VDfYnsmcpXsUYEcVHm" : {
-            "name" : "BTC Nuggets",
+            "name" : "BTCIL Nuggets",
             "link" : "http://104.197.8.250/"
         },
         "1KFHE7w8BhaENAswwryaoccDb6qcT6DbYY" : {
@@ -711,7 +711,7 @@
             "link" : "https://pool.btcc.com/"
         },
         "1PmRrdp1YSkp1LxPyCfcmBHDEipG5X4eJB" : {
-            "name" : "BTC Pool Party",
+            "name" : "BTCIL Pool Party",
             "link" : "https://btcpoolparty.com/"
         },
         "1Hk9gD8xMo2XBUhE73y5zXEM8xqgffTB5f" : {
@@ -747,7 +747,7 @@
             "link" : "https://nexious.com/"
         },
         "1AePMyovoijxvHuKhTqWvpaAkRCF4QswC6" : {
-            "name" : "Tricky's BTC Pool",
+            "name" : "Tricky's BTCIL Pool",
             "link" : "http://pool.wemine.uk/"
         },
         "17judvK4AC2M6KhaBbAEGw8CTKc9Pg8wup" : {
@@ -783,23 +783,23 @@
             "link" : "http://patelsminingpool.com/"
         },
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
-            "name" : "BTC.com",
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "34qkc2iac6RsyxZVfyE2S5U5WcRsbg2dpK" : {
-            "name" : "BTC.com",
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "3EhLZarJUNSfV6TWMZY1Nh5mi3FMsdHa5U" : {
-            "name" : "BTC.com",
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "bc1qjl8uwezzlech723lpnyuza0h2cdkvxvh54v3dn" : {
-            "name" : "BTC.com",
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "1Bf9sZvBHPFGVPX71WX2njhd1NXKv5y7v5" : {
-            "name" : "BTC.com",
+            "name" : "BTCIL.com",
             "link" : "https://pool.btc.com"
         },
         "18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa" : {
@@ -879,7 +879,7 @@
             "link" : "https://www.brainofshawn.com"
         },
         "1Hz96kJKF2HLPGY15JWLB5m9qGNxvt8tHJ" : {
-            "name" : "BTC.TOP",
+            "name" : "BTCIL.TOP",
             "link" : "http://btc.top"
         },
         "1Afcpc2FpPnREU6i52K3cicmHdvYRAH9Wo" : {

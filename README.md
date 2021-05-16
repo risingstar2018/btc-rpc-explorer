@@ -5,7 +5,7 @@
 [![npm version][npm-ver-img]][npm-ver-url] [![NPM downloads][npm-dl-img]][npm-dl-url]
 
 
-Simple, database-free Bitcoin blockchain explorer, via RPC to [Bitcoin Core](https://github.com/bitcoin/bitcoin).
+Simple, database-free Bitcoin blockchain explorer, via RPC to [BitcoinIL Core](https://github.com/bitcoin/bitcoin).
 
 This is a simple, self-hosted explorer for the Bitcoin blockchain, driven by RPC calls to your own [Bitcoin](https://github.com/bitcoin/bitcoin) node. It is easy to run and can be connected to other tools (like [ElectrumX](https://github.com/spesmilo/electrumx)) to achieve a full-featured explorer.
 
@@ -46,7 +46,7 @@ See [CHANGELOG.md](/CHANGELOG.md).
 ### Note about pruning and indexing configurations
 
 This tool is designed to work best with full transaction indexing enabled (`txindex=1`) and pruning **disabled**. 
-However, if you're running Bitcoin Core v0.21+ you can run *without* `txindex` enabled and/or *with* `pruning` enabled and this tool will continue to function, but some data will be incomplete or missing. Also note that such Bitcoin Core configurations receive less thorough testing.
+However, if you're running BitcoinIL Core v0.21+ you can run *without* `txindex` enabled and/or *with* `pruning` enabled and this tool will continue to function, but some data will be incomplete or missing. Also note that such BitcoinIL Core configurations receive less thorough testing.
 
 In particular, with `pruning` enabled and/or `txindex` disabled, the following functionality is altered:
 

@@ -120,7 +120,7 @@ module.exports = {
 
 	// used for supply estimates that don't need full gettxoutset accuracy
 	coinSupplyCheckpointsByNetwork: {
-		"main": [ 675046, new Decimal(18656332.38) ],
+		"main": [ 25318, new Decimal(1265900) ],
 		"test": [ 1940614, new Decimal(20963051.112) ],
 		"signet": [ 29472, new Decimal(1473600) ],
 		"regtest": [ 0, new Decimal(0) ]
